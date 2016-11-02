@@ -1,0 +1,18 @@
+
+<html>
+<head>
+
+<title>Site of company Eventus</title>
+</head>
+<body>
+	<h2>Site of compani Eventus-Prim</h2>
+<ul>
+	<li><a href="site_v1.html">Start page</a></li>
+	<li><a href="Price2.html">Price</a></li>
+	<li><a href="Contacts.html">Contact of company</a></li>
+</ul>
+<p><h1>Hellow this is a fake site of Eventus-Prim company</h1></p>
+<p>This site was created to perform laboratory tasks</p>
+<p>On this site you will find the price and contact numbers</p>
+</body>
+</html>
