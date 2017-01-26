@@ -1,0 +1,16 @@
+C:\univer\sem5\Midps\calculator\C#\SimpleCalculator\bin\Debug\SimpleCalculator.exe
+C:\univer\sem5\Midps\calculator\C#\SimpleCalculator\bin\Debug\SimpleCalculator.pdb
+C:\univer\sem5\Midps\calculator\C#\SimpleCalculator\obj\Debug\SimpleCalculator.csprojResolveAssemblyReference.cache
+C:\univer\sem5\Midps\calculator\C#\SimpleCalculator\obj\Debug\SimpleCalculator.frmCalculator.resources
+C:\univer\sem5\Midps\calculator\C#\SimpleCalculator\obj\Debug\SimpleCalculator.Properties.Resources.resources
+C:\univer\sem5\Midps\calculator\C#\SimpleCalculator\obj\Debug\SimpleCalculator.csproj.GenerateResource.Cache
+C:\univer\sem5\Midps\calculator\C#\SimpleCalculator\obj\Debug\SimpleCalculator.exe
+C:\univer\sem5\Midps\calculator\C#\SimpleCalculator\obj\Debug\SimpleCalculator.pdb
+C:\univer\sem5\TI141ff-MIDPS\calculator\C#\SimpleCalculator\obj\Debug\SimpleCalculator.exe
+C:\univer\sem5\TI141ff-MIDPS\calculator\C#\SimpleCalculator\obj\Debug\SimpleCalculator.pdb
+C:\univer\sem5\TI141ff-MIDPS\calculator\C#\SimpleCalculator\obj\Debug\SimpleCalculator.csprojResolveAssemblyReference.cache
+C:\univer\sem5\TI141ff-MIDPS\calculator\C#\SimpleCalculator\obj\Debug\SimpleCalculator.frmCalculator.resources
+C:\univer\sem5\TI141ff-MIDPS\calculator\C#\SimpleCalculator\obj\Debug\SimpleCalculator.Properties.Resources.resources
+C:\univer\sem5\TI141ff-MIDPS\calculator\C#\SimpleCalculator\obj\Debug\SimpleCalculator.csproj.GenerateResource.Cache
+C:\univer\sem5\TI141ff-MIDPS\calculator\C#\SimpleCalculator\bin\Debug\SimpleCalculator.exe
+C:\univer\sem5\TI141ff-MIDPS\calculator\C#\SimpleCalculator\bin\Debug\SimpleCalculator.pdb
